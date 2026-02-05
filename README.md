@@ -2,6 +2,12 @@
 
 Pokémon Red/Blue with the Pokémon Crystal sound engine stitched in. Made by Sanqui and dannye.
 
+# Credits
+
+Original code: Vortyne, luckytyphlosion, and Pigu-A
+
+[Music](https://www.youtube.com/watch?v=Q8Q1jqxWH-U) by Mr. Cheeze
+
 Original README follows...
 
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
