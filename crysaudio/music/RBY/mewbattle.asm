@@ -1,3 +1,5 @@
+; made by Mr. Cheeze
+
 Music_MewBattle::
 	channel_count 3
 	channel 1, Music_MewBattle_Ch1
